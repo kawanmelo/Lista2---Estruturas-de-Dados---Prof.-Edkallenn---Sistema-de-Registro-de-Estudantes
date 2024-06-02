@@ -23,5 +23,11 @@ O projeto está dividido em vários arquivos principais, cada um responsável po
 
 - **ListaEstudantes.c/h**: Implementa a lista encadeada para armazenar informações dos estudantes.
 - **FilaEstudantes.c/h**: Implementa a fila para o agendamento de matrículas em disciplinas.
+-  **PilhaNotas.c/h**: Implementa a pilha para lidar com o histórico de notas dos estudantes.
 - **DequeEstudantes.c/h**: Implementa o deque para gerenciar a lista de espera para atendimento.
 - **main.c**: Contém a função `main` e a interface de usuário para interagir com o sistema de registro.
+
+## Contato
+- **Autor:** Kawan Melo
+- **Email:** [kawangcmelo@gmail.com](mailto:kawangcmelo@gmail.com)
+- **LinkedIn:** [linkedin.com/in/kawanmelo](https://linkedin.com/in/kawanmelo)
